@@ -48,6 +48,8 @@ QXlsx/release/*
 *.pro.user
 build-*/
 /build-*/*
+_moc
+_obj
 
 # visual studio
 *.pdb
